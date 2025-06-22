@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jjazminp
-- 👀 I’m interested in getting into tech such as cyber or system anyalst.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on any projects that get me out my comfort zone to learn how to better code.
+- 👋 Hi, I’m Jazmin Plascencia
+- 👀 I’m a Data Analyst and Solution Engineer.
+- 🌱 I use SQL on a day to day basis but also dabble in Python, Powershell, Power Query, DAX, and Visual basics.
+- 💞️ I love to collobrate on projects as well as open to learning new skills.
 - 📫 How to reach me: jjazplascencia@gmail.com .
 
 <!---
