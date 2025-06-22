@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Jazmin Plascencia
-- 👀 I’m a Data Analyst and Solution Engineer.
-- 🌱 I use SQL on a day to day basis but also dabble in Python, Powershell, Power Query, DAX, and Visual basics.
-- 💞️ I love to collobrate on projects as well as open to learning new skills.
-- 📫 How to reach me: jjazplascencia@gmail.com .
+-👋 Hi, I’m Jazmin Plascencia
+-🎓 Data Analyst | SQL • Power BI • Python • Excel
+-💡 I turn raw data into clean, clear, and actionable insights.
+-📊 Specializing in reporting automation, dashboard creation, and data storytelling.
+-🔒 Some of my projects are private—please reach out for access.
 
 <!---
 jjazminp/jjazminp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
